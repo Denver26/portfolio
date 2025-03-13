@@ -1,7 +1,6 @@
-import React from "react";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faNodeJs, faJs, faBootstrap,faPhp } from "@fortawesome/free-brands-svg-icons";
-import { faDatabase } from "@fortawesome/free-solid-svg-icons"; // Example for non-brands
 
 function ProjectContent() {
   const projects = [
